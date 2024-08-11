@@ -75,9 +75,6 @@ dynamic-task-event-visualization/
 ## Contributing
 Contributions are welcome! If you'd like to enhance the functionality or fix any issues, feel free to fork the repository, make your changes, and submit a pull request. Please ensure that your code follows the project’s coding standards and is well-documented.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or feedback, please feel free to reach out:
 
